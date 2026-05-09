@@ -1,0 +1,23 @@
+{
+  "dataset_size": 2057,
+  "train_size": 1645,
+  "test_size": 412,
+  "best_rf_params": {
+    "n_estimators": "500",
+    "min_samples_split": "2",
+    "min_samples_leaf": "1",
+    "max_features": "log2",
+    "max_depth": "None"
+  },
+  "test_metrics": {
+    "r2": 0.429308943151951,
+    "rmse": 0.91760512913204,
+    "mae": 0.7015175051255376,
+    "pearson_r": 0.6727558404079766,
+    "spearman_rho": 0.670244638678905,
+    "n_test": 412
+  },
+  "cv_r2": "0.678 \u00b1 0.028",
+  "cv_rmse": "0.715 \u00b1 0.031",
+  "y_randomisation_significant": true
+}

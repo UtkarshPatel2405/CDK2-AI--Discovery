@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (raw downloads can be re-fetched)
+data/raw/
+
+# Models (can be retrained)
+# Note: we DO track models/trained/benchmark_results.csv and training_results.json
+*.joblib
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/

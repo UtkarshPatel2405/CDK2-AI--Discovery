@@ -1,0 +1,6 @@
+# Dev / test dependencies
+pytest==8.3.5
+pytest-cov==6.1.1
+matplotlib==3.10.1
+xgboost==3.0.0
+chembl_webresource_client==0.10.9

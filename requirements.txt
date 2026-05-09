@@ -1,0 +1,15 @@
+# Core dependencies
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+pyarrow
+plotly
+requests
+pillow
+rdkit
+gdown
+scipy
+xgboost
+chembl_webresource_client

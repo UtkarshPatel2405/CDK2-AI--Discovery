@@ -7,7 +7,7 @@
 ChemBLitz is a professional decision-support platform for **CDK2 inhibitor discovery**. It integrates a validated **QSAR predictor** with comprehensive **chemical asset validation** — including applicability domain analysis, nearest-neighbour evidence, PAINS screening, scaffold context, and developability profiling — to support compound prioritisation in hit-to-lead and lead optimisation workflows.
 
 ---
-
+Link of Publication https://chemrxiv.org/doi/full/10.26434/chemrxiv.15003014/v1
 ## Table of Contents
 
 - [What This Tool Does](#what-this-tool-does)
